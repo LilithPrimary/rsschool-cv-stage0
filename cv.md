@@ -2,12 +2,16 @@
 ***
 ### GALIA IAKUSHEVA
 Hope Future Frontend Developer
-***
+
+---
+
 [locationicon](ilocation.png) Voronezh, Russia\
 [phoneicon](iphone.png) +7 (910) 344-44-00\
 [discordicon](idiscord.png) Lilith (@LilithPrimary)\
 [emailicon](iemail.png) LilithPrimary@gmail.com
-***
+
+---
+
 #### ABOUT ME
 
 I like programming. Unfortunately, I\
@@ -18,7 +22,9 @@ knowledge and experience. I really\
 hope to successfully complete the\
 courses at RSSchool and find a job\
 in frontend.
-***
+
+---
+
 #### SKILLS
 
 - CorelDraw
@@ -27,7 +33,9 @@ in frontend.
 - JAVA Basics
 - HTML, CSS Basics
 - Git, GitHub
-***
+
+---
+
 #### CODE EXAMPLE
 
 return even elements of Fibonacci numbers\
@@ -46,15 +54,21 @@ print(fib_n[::3])
 
 - Voronezh Institute of High Technologies (VIHT) Higher education (engineer)
 - Don State Technical University (DonSTU) Python courses
-***
+
+---
+
 #### LANGUAGES
 
 - RUSSIAN native
 - ENGLISH B1
-***
+
+---
+
 #### GITHUB
 
 https://github.com/lilithprimary
-***
+
+---
+
 2021 GALIA IAKUSHEVA
 [rsschool-logo](logo-rss.png)
