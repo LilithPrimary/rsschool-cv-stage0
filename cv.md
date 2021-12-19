@@ -1,14 +1,16 @@
 ###### CURRICULUM VITAE
-***
+---
+![photo](images/photo.png)
+
 ### GALIA IAKUSHEVA
 Hope Future Frontend Developer
 
 ---
 
-[locationicon](ilocation.png) Voronezh, Russia\
-[phoneicon](iphone.png) +7 (910) 344-44-00\
-[discordicon](idiscord.png) Lilith (@LilithPrimary)\
-[emailicon](iemail.png) LilithPrimary@gmail.com
+  ![locationicon](images/ilocation.svg) Voronezh, Russia\
+  ![phoneicon](images/iphone.svg) +7 (910) 344-44-00\
+  ![discordicon](images/idiscord.svg) Lilith (@LilithPrimary)\
+  ![emailicon](images/iemail.svg) LilithPrimary@gmail.com
 
 ---
 
@@ -38,8 +40,8 @@ in frontend.
 
 #### CODE EXAMPLE
 
-return even elements of Fibonacci numbers\
-(Python)
+*return even elements of **Fibonacci numbers**\
+(Python)*
 
 ```
 # code block
@@ -52,8 +54,9 @@ print(fib_n[::3])
 ***
 #### EDUCATION
 
-- Voronezh Institute of High Technologies (VIHT) Higher education (engineer)
-- Don State Technical University (DonSTU) Python courses
+- **Voronezh Institute of High Technologies (VIHT)** Higher education (engineer) *2012*
+- **Don State Technical University (DonSTU)** Python courses *2020*
+- **Rollin Scores School** JS/Frontend Developer *In progress*
 
 ---
 
@@ -64,11 +67,12 @@ print(fib_n[::3])
 
 ---
 
-#### GITHUB
+#### PROJECTS
 
-https://github.com/lilithprimary
+https://github.com/LilithPrimary/rsschool-cv
 
 ---
 
-2021 GALIA IAKUSHEVA
-[rsschool-logo](logo-rss.png)
+2021 by GALIA IAKUSHEVA
+[![GitHub](images/igithub.svg)](https://github.com/LilithPrimary)
+[![RSSchool](images/irs.svg)](https://app.rs.school/)
