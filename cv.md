@@ -7,10 +7,10 @@ Hope Future Frontend Developer
 
 ---
 
-  ![locationicon](assets/svg/ilocation.svg) Voronezh, Russia\
-  ![phoneicon](assets/svg/iphone.svg) +7 (910) 344-44-00\
-  ![discordicon](assets/svg/idiscord.svg) Lilith(@LilithPrimary)\
-  ![emailicon](assets/svg/iemail.svg) LilithPrimary@gmail.com
+  ![locationicon](assets/svg/ilocationCV.svg) Voronezh, Russia\
+  ![phoneicon](assets/svg/iphoneCV.svg) +7 (910) 344-44-00\
+  ![discordicon](assets/svg/idiscordCV.svg) Lilith(@LilithPrimary)\
+  ![emailicon](assets/svg/iemailCV.svg) LilithPrimary@gmail.com
 
 ---
 
