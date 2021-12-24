@@ -1,16 +1,16 @@
 ###### CURRICULUM VITAE
 ---
-![photo](images/photo.png)
+![photo](assets/img/photo.png)
 
 ### GALIA IAKUSHEVA
 Hope Future Frontend Developer
 
 ---
 
-  ![locationicon](images/ilocation.svg) Voronezh, Russia\
-  ![phoneicon](images/iphone.svg) +7 (910) 344-44-00\
-  ![discordicon](images/idiscord.svg) Lilith(@LilithPrimary)\
-  ![emailicon](images/iemail.svg) LilithPrimary@gmail.com
+  ![locationicon](assets/svg/ilocation.svg) Voronezh, Russia\
+  ![phoneicon](assets/svg/iphone.svg) +7 (910) 344-44-00\
+  ![discordicon](assets/svg/idiscord.svg) Lilith(@LilithPrimary)\
+  ![emailicon](assets/svg/iemail.svg) LilithPrimary@gmail.com
 
 ---
 
@@ -43,12 +43,12 @@ in frontend.
 *return even elements of **Fibonacci numbers**\
 (Python)*
 
-```
+```python
 # code block
 n = int(input("Required number of even FN"))
 fib_n = [0, 1]
 for i in range(n*3-4):
-fib_n.append(fib_n[-1]+fib_n[-2])
+  fib_n.append(fib_n[-1]+fib_n[-2])
 print(fib_n[::3])
 ```
 ***
