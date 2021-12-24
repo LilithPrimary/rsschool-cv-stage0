@@ -12,16 +12,16 @@
     <div class="wrapper">
       <header class="header">
         <div class="top">
-          <div class="h-container-top">
-            <nav class="menu">
-              <a href="#about" class="menu-link">ABOUT</a>
-              <a href="#skills" class="menu-link">SKILLS</a>
-              <a href="#code" class="menu-link">CODE</a>
-              <a href="#education" class="menu-link">EDUCATION</a>
-              <a href="#languages" class="menu-link">LANGUAGES</a>
-              <a href="#projects" class="menu-link">PROJECTS</a>
-            </nav>
-          </div>
+          <nav class="h-container-top">
+            <ul class="menu">
+              <li><a href="#about" class="menu-link">ABOUT</a></li>
+              <li><a href="#skills" class="menu-link">SKILLS</a></li>
+              <li><a href="#code" class="menu-link">CODE</a></li>
+              <li><a href="#education" class="menu-link">EDUCATION</a></li>
+              <li><a href="#languages" class="menu-link">LANGUAGES</a></li>
+              <li><a href="#projects" class="menu-link">PROJECTS</a></li>
+            </ul>
+          </nav>
         </div>
         <div class="bottom">
           <div class="h-container-bottom">
@@ -81,11 +81,14 @@
               <h2 class="header2" id="about">ABOUT ME</h2>
               <div class="line"></div>
               <p class="textHeader">
-                I like programming. Unfortunately, I <br> have no experience in
-                programming, <br> but I really want to work in that <br> direction. I am
-                looking for new <br> knowledge and experience. I really <br> hope to
-                successfully complete the <br> courses at RSSchool and find a job <br> in
-                frontend.
+                I like programming. Unfortunately, I <br />
+                have no experience in programming, <br />
+                but I really want to work in that <br />
+                direction. I am looking for new <br />
+                knowledge and experience. I really <br />
+                hope to successfully complete the <br />
+                courses at RSSchool and find a job <br />
+                in frontend.
               </p>
             </div>
             <div class="block">
@@ -93,15 +96,27 @@
               <div class="line"></div>
               <ul class="textHeader">
                 <li>
-                  <b>Voronezh Institute of High <br> Technologies (VIHT)</b> <br> Higher
-                  education (engineer) <br> <i>2012</i>
+                  <b
+                    >Voronezh Institute of High <br />
+                    Technologies (VIHT)</b
+                  >
+                  <br />
+                  Higher education (engineer) <br />
+                  <i>2012</i>
                 </li>
                 <li>
-                  <b>Don State Technical University <br> (DonSTU)</b> <br> Python courses <br>
+                  <b
+                    >Don State Technical University <br />
+                    (DonSTU)</b
+                  >
+                  <br />
+                  Python courses <br />
                   <i>2020</i>
                 </li>
                 <li>
-                  <b>Rollin Scopes School</b> <br> JS/Frontend Developer <br> <i>In progress</i>
+                  <b>Rollin Scopes School</b> <br />
+                  JS/Frontend Developer <br />
+                  <i>In progress</i>
                 </li>
               </ul>
             </div>
@@ -132,36 +147,48 @@
             <div class="block">
               <h2 class="header2" id="code">CODE EXAMPLE</h2>
               <div class="line"></div>
-              <p class="python">return even elements of <b>Fibonacci numbers</b> (Python)</p>
+              <p class="python">
+                return even elements of <b>Fibonacci numbers</b> (Python)
+              </p>
               <p class="pythonCode textHeader">
 <pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(34, 34, 34); color: rgb(170, 170, 170);">n = int(input(<span class="hljs-string" style="color: rgb(255, 204, 51);">"Required number of even FN"</span>))
 fib_n = [<span class="hljs-number" style="color: rgb(0, 204, 102);">0</span>, <span class="hljs-number" style="color: rgb(0, 204, 102);">1</span>]
 <span class="hljs-keyword" style="color: rgb(102, 68, 170);">for</span> i <span class="hljs-keyword" style="color: rgb(102, 68, 170);">in</span> range(n*<span class="hljs-number" style="color: rgb(0, 204, 102);">3</span><span class="hljs-number" style="color: rgb(0, 204, 102);">-4</span>):
-    fib_n.append(fib_n[<span class="hljs-number" style="color: rgb(0, 204, 102);">-1</span>]+fib_n[<span class="hljs-number" style="color: rgb(0, 204, 102);">-2</span>])
+  fib_n.append(fib_n[<span class="hljs-number" style="color: rgb(0, 204, 102);">-1</span>]+fib_n[<span class="hljs-number" style="color: rgb(0, 204, 102);">-2</span>])
 print(fib_n[::<span class="hljs-number" style="color: rgb(0, 204, 102);">3</span>])</pre>
               </p>
             </div>
             <div class="block">
               <h2 class="header2" id="projects">PROJECTS</h2>
               <div class="line"></div>
-              <p class="textHeader"><a target="_blank" href="https://lilithprimary.github.io/rsschool-cv/cv">CV Markdown</a></p>
+              <p class="textHeader">
+                <a
+                  target="_blank"
+                  href="https://lilithprimary.github.io/rsschool-cv/cv"
+                  >CV Markdown</a
+                >
+              </p>
             </div>
           </div>
         </div>
       </main>
 
       <footer class="footer">
-          <div class="footer-container">
-              <p class="footerText">© 2021 GALIA IAKUSHEVA</p>
-              <div class="imgBlock">
-              <a target="_blank" href="https://github.com/LilithPrimary" class="gitLink">
-                  <img src="assets/svg/igithub.svg" alt="GitHub" class="gitIMG">
-              </a>
-              <a target="_blank" href="https://app.rs.school/" class="footImg">
-                  <img src="assets/svg/irs.svg" alt="RSSchool" class="footImg">
-              </a>
-            </div>
+        <div class="footer-container">
+          <p class="footerText">© 2021 GALIA IAKUSHEVA</p>
+          <div class="imgBlock">
+            <a
+              target="_blank"
+              href="https://github.com/LilithPrimary"
+              class="gitLink"
+            >
+              <img src="assets/svg/igithub.svg" alt="GitHub" class="gitIMG" />
+            </a>
+            <a target="_blank" href="https://app.rs.school/" class="footImg">
+              <img src="assets/svg/irs.svg" alt="RSSchool" class="footImg" />
+            </a>
           </div>
+        </div>
       </footer>
     </div>
   </body>

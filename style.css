@@ -73,41 +73,40 @@
   }
   /*-------------HEADER------------------------------------------------------*/
   .header {
-    position: relative;
     width: 100%;
     left: 0;
     top: 0;
+    margin-bottom: 90px;
   }
 
   .top {
     background-color: rgb(62, 66, 65);
-    min-height: 60px;
+    height: 60px;
     width: 100%;
     left: 0;
     top: 0;
     z-index: 50;
   }  
   .h-container-top {
-    height: 60px;
+    height: 100%;
+    max-width: 800px;
     display: flex;
     align-items: center;
-    max-width: 800px;
     margin: 0 auto;
     background-color: inherit;
   }
   .menu {
     width: 100%;
-    height: 20px; 
     display: flex;
     justify-content: space-between;
-    padding-top: 3px;
+    height: 20px; 
   }
   .menu-link {
     color: rgb(186, 221, 217);
   }
 
   .bottom {
-    min-height: 180px;
+    max-height: 180px;
     background-color: rgb(186, 221, 217);
     width: 100%;
     left: 0;
@@ -118,7 +117,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 800px;
     max-width: 800px;
     margin: 0 auto;
     background-color: inherit;
@@ -152,7 +150,7 @@
     justify-content: space-between;
   }
   .name{
-    width: 222px;
+    width: auto;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -190,7 +188,6 @@
     background-color: rgb(62, 66, 65);
   }
   .main_container{
-    width: 800px;
     max-width: 800px;
     height: 100%;
     margin: 0 auto;
@@ -202,12 +199,12 @@
     display: flex;
     justify-content: space-between;
   }
-  .blockOfTwo:first-child{
+ /* .blockOfTwo:first-child{
     margin-top: 90px;
   }
   .blockOfTwo:last-child{
     margin-bottom: 90px;
-  }
+  }*/
   .block{
   }
   .header2{
@@ -240,6 +237,7 @@
   }
     /*-------------FOOTER------------------------------------------------------*/
     .footer{
+      margin-top: 90px;
       width: 100%;
       height: 70px;
       background-color: rgb(186, 221, 217);
@@ -254,16 +252,53 @@
       background-color: inherit;
     }
     .imgBlock{
+      display: flex;
       max-height: 55px;
     }
     .gitLink{
       padding-right: 10px;
     }
     .footImg{
-
+      height: 30px;
     }
     .rsLink{
 
     }
 
-    
+@media (max-width: 630px){
+  .bottom {
+    max-height: 500px;
+  }
+  .h-container-bottom {
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+  }
+  .avatar {
+    margin-top: -50px;
+    margin-bottom: 40px;
+  }
+  .nameAndContacts {
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .blockOfTwo{
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .block{
+    width: 355px;
+  }
+  .block:first-child{
+    margin-bottom: 50px;
+  }
+
+
+} 
