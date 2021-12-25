@@ -286,7 +286,7 @@
     justify-content:space-between;
   }
   .avatar {
-    padding-top: 20px;
+    margin-top: 20px;
   }
   .CVandContacts{
     height: auto;
