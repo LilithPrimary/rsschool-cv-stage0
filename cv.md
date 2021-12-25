@@ -69,10 +69,11 @@ print(fib_n[::3])
 
 #### PROJECTS
 
-https://github.com/LilithPrimary/rsschool-cv
+[CV Markdown](https://github.com/LilithPrimary/rsschool-cv)
 
 ---
 
-2021 by GALIA IAKUSHEVA
-[![GitHub](images/igithub.svg)](https://github.com/LilithPrimary)
-[![RSSchool](images/irs.svg)](https://app.rs.school/)
+2021 by GALIA IAKUSHEVA\
+\
+[![GitHub](assets/svg/igithub.svg)](https://github.com/LilithPrimary)
+[![RSSchool](assets/svg/irs.svg)](https://app.rs.school/)
