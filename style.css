@@ -214,6 +214,10 @@
     font-family: Tahoma;
     font-weight: 100;
   }
+  .code{
+    width: auto;
+    height: auto;
+  }
   .textHeader>li{
     padding-bottom: 10px;
     list-style: square;
@@ -312,8 +316,13 @@
   .block{
     width: 355px;
   }
+  .code{
+    font-size: 13px;
+  }
   .block:first-child{
     margin-bottom: 50px;
   }
-
+  .footer-container{
+    padding: 20px;
+  }
 } 
