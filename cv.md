@@ -56,7 +56,7 @@ print(fib_n[::3])
 
 - **Voronezh Institute of High Technologies (VIHT)** Higher education (engineer) *2012*
 - **Don State Technical University (DonSTU)** Python courses *2020*
-- **Rollin Scopes School** JS/Frontend Developer *In progress*
+- **Rolling Scopes School** JS/Frontend Developer *In progress*
 
 ---
 
