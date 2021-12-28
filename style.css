@@ -222,8 +222,13 @@
     padding-bottom: 10px;
     list-style: square;
   }
-  .textHeader>a{
+  .textHeader>li>a{
+    transition: .1s;
     color: white;
+  }
+  .textHeader>li>a:hover{
+    transition: .1s;
+    text-shadow: 1px 1px 5px white;
   }
   .python{
     color: rgb(186, 221, 217);
