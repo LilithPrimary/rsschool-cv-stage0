@@ -289,18 +289,20 @@
     max-height:max-content;
   }
   .h-container-bottom {
-    height: 450px;
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content:space-between;
   }
   .avatar {
-    margin-top: 20px;
+    margin: 20px;
   }
   .CVandContacts{
+    width: 100%;
     height: auto;
   }
+  
   .nameAndContacts {
     height: auto;
     padding: 20px;
