@@ -1,1 +1,1 @@
-https://lilithprimary.github.io/rsschool-cv-stage0/
+https://lilithprimary.github.io/rsschool-cv/cv
