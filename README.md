@@ -1,2 +1,2 @@
-CV: https://lilithprimary.github.io/rsschool-cv-stage0/  \
-Markdown CV: https://lilithprimary.github.io/rsschool-cv-stage0/cv
+CV: https://lilithprimary.github.io/rsschool-cv/  \
+Markdown CV: https://lilithprimary.github.io/rsschool-cv/cv
